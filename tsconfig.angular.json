@@ -1,0 +1,15 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "outDir": "./dist/angular",
+    "types": [],
+    "target": "ES2022",
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "lib": ["ES2022", "DOM"],
+    "jsx": "preserve"
+  },
+  "files": [],
+  "include": ["src/angular/**/*.ts"],
+  "exclude": []
+}
