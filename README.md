@@ -8,6 +8,10 @@ SDS is not just another design system in Figma. There are still many gaps betwee
 
 Whether you’re looking to use SDS to start a new project, or are looking for examples of some common design systems best practices, you'll find tools inside this codebase and design file to steer you in the right direction.
 
+## Angular 20 Migration
+
+An initial Angular 20 skeleton is included under `src/angular`. Run `npx ng serve` after installing dependencies to experiment with a modern Angular setup using standalone components.
+
 ## Resources
 
 - [Storybook](https://figma.github.io/sds/storybook)
